@@ -1,0 +1,29 @@
+.m{
+  color: red;
+  background-color: /* Created with https://www.css-gradient.com */
+background: rgba(91, 91, 91, 1.0);
+background: -webkit-linear-gradient(right, rgba(91, 91, 91, 1.0), rgba(1, 15, 74, 1.0));
+background: -moz-linear-gradient(right, rgba(91, 91, 91, 1.0), rgba(1, 15, 74, 1.0));
+background: linear-gradient(to left, rgba(91, 91, 91, 1.0), rgba(1, 15, 74, 1.0));
+  padding: 10px;
+  margin: -10px;
+}
+.mb{
+  color: blue;
+  width: 100px;
+  height: 40px;
+}
+.n{
+  color: black;
+  width: 720px;
+  height: 30px;
+}
+.b{
+  background-color: black;
+}
+.gb{
+  width:1210px
+}
+.h{
+  color: white;
+}
